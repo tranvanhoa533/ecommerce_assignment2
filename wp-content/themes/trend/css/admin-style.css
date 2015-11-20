@@ -1,0 +1,19 @@
+.meta_box_label {
+    display: block;
+    float: left;
+    padding: 5px;
+    width: 25%;
+}
+.custom_metas > select {
+    width: 30%;
+}
+.custom_metas small {
+    font-weight: bold;
+    padding-left: 10px;
+}
+.metabox-page.custom_metas {
+    margin-bottom: 10px;
+}
+.vc_element-icon.modeltheme_shortcode{
+    background: url('../images/ModelTheme_logo.png');
+}
